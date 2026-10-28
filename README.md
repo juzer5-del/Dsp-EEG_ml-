@@ -10,7 +10,7 @@
  
 ---
 
-## Overview
+## Overview 
 
 EEG_ml is a machine-learning pipeline that classifies four motor-imagery tasks from EEG recordings. It uses FBCSP to extract spatial-frequency features and Logistic Regression to predict the imagined movement.
 
